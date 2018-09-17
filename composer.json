@@ -1,0 +1,16 @@
+{
+    "name": "usuario/projeto-final",
+    "description": "Sistema para compra de jogos com cadastro de cliente e funcionario.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonardo Roza",
+            "email": "leonardo.roza@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "4.1.3"
+    }
+}
